@@ -1,6 +1,7 @@
+# Muito Bem-vindo! 🤓
+
 <img src="banner.gif" width="325px" align="right">
 
-# Muito Bem-vindo! 🤓
 Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
 
 <div id="badges">
