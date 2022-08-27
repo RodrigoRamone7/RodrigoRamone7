@@ -2,7 +2,7 @@
 
 <img src="banner.gif" width="325px" align="right">
 
-Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
+<p>Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.</p>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/rodrigo-ramone-404b62113/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
