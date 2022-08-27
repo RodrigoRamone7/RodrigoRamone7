@@ -4,7 +4,7 @@
 Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
 
 <div id="badges">
-    <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230A66C2&label=LinkedIn&logo=LinkedIn&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frodrigo-ramone-404b62113%2F">
+    <a href="https://www.linkedin.com/in/rodrigo-ramone-404b62113/" target="_blank"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230A66C2&label=LinkedIn&logo=LinkedIn&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frodrigo-ramone-404b62113%2F"></a>
 </div>
 
 <ul>
