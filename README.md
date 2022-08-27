@@ -17,7 +17,7 @@ Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de
 
 ---
 
-<table>
+<table style="border: 0px solid;">
     <tr>
         <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true"></td>
         <td><img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshadowbrokerxx&layout=compact&show_icons=true&theme=swift&count_private=true"></td>
