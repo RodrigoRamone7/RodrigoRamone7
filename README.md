@@ -3,6 +3,10 @@
 # Muito Bem-vindo! 🤓
 Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
 
+<div id="badges">
+    <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230A66C2&label=LinkedIn&logo=LinkedIn&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frodrigo-ramone-404b62113%2F">
+</div>
+
 <ul>
     <li>📖 Estudante de Desenvolvimento Front-End</li>
     <li>💙 Aluno do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a></li>
