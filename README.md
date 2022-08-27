@@ -23,8 +23,8 @@ Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de
 ---
 
 <div align="center">
-        <img height="200px" width="200vw" align="center" src="https://github-readme-stats.vercel.app/api?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
-        <img height="200px" width="200vw" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
+        <img height="200px" width="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
+        <img height="200px" width="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
 </div>
 
 
