@@ -1,6 +1,6 @@
 # Muito Bem-vindo! 🤓
 
-<div align="right"><img src="banner.gif" width="325px"></div>
+<div align="right"><img src="banner.gif" width="96vw"></div>
 
 <p>Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.</p>
 
