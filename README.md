@@ -1,10 +1,13 @@
-<img src="banner.gif" width="325px" align="right">
+<img src="banner.gif" width="325px" style="text-align:right;">
 
 # Muito Bem-vindo! 🤓
-Estou me formando na área de tecnologia com foco em Front-End. Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
+Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.
 
 <ul>
+    <li>📖 Estudante de Desenvolvimento Front-End</li>
     <li>💙 Aluno do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a></li>
+    <li>🎮 Gamer</li>
+    <li>🏋🏻‍♀️ Musculamento</li>
 </ul>
 
 ---
