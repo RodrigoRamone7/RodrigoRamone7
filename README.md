@@ -18,6 +18,7 @@ Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de
 ---
 
 <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=xxshadowbrokerxx">
+<img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshadowbrokerxx">
 
 ---
 
