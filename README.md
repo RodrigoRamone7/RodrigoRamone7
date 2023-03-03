@@ -10,15 +10,15 @@
 </div>
 
 <ul>
-    <li>📖 Estudante de Desenvolvimento Front-End</li>
-    <li>💙 Aluno do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a></li>
+    <li>📖 Estudante de Análise e Desenvolvimento de sistemas</li>
+    <li>🧡 Aluno da <a href="https://unifatecie.edu.br/" target="_blank">UniFatecie</a></li>
     <li>🎮 Gamer</li>
-    <li>🏋🏻‍♀️ Musculamento</li>
 </ul>
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" tittle="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" tittle="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
