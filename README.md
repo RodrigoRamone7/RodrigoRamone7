@@ -2,7 +2,9 @@
 
 <div align="center"><img src="banner.gif" width="96vw"></div>
 
-<p>Trabalho a mais de 10 anos na área de Design impresso, porém, sempre gostei de programação. Nada melhor que começar por uma área que tenho mais afinidade.</p>
+<p>Com mais de 10 anos de experiência na área de impressão digital, decidi migrar de carreira para área de tecnologia em busca de novas experiências.<br>
+Atualmente não tenho experiência na área, mas estou me dedicando a aprender novas tecnologias para me inserir no mercado de trabalho.<br>
+Tenho conhecimento intermediário em HTML5/CSS3, lógica de programação e atualmente estudo Python.</p>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/rodrigo-ramone-404b62113/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
