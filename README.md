@@ -4,7 +4,7 @@
 
 <p>Com mais de uma década de experiência na área de impressão digital, decidi mudar de carreira e me aventurar na área de tecnologia em busca de novas oportunidades. Embora eu não possua experiência prévia nessa área, estou comprometido em aprender novas tecnologias e me tornar um profissional capacitado e atualizado.<br>
 
-Atualmente, possuo conhecimento intermediário em HTML5/CSS3 e lógica de programação, e estou me aprofundando no estudo da linguagem Python. Estou determinado a me inserir no mercado de trabalho de tecnologia e contribuir para o desenvolvimento de projetos inovadores.</p>
+Atualmente, possuo conhecimento intermediário em HTML5/CSS3 e lógica de programação, e estou me aprofundando no estudo da linguagem Python.<br>Estou determinado a me inserir no mercado de trabalho de tecnologia e contribuir para o desenvolvimento de projetos inovadores.</p>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/rodrigo-ramone-404b62113/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
