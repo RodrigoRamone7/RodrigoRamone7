@@ -26,8 +26,8 @@ Atualmente, possuo conhecimento intermediário em HTML5/CSS3 e lógica de progra
 ---
 
 <div align="left">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshadowbrokerxx&show_icons=true&theme=swift&count_private=true">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRamone7&show_icons=true&theme=swift&count_private=true">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRamone7&show_icons=true&theme=swift&count_private=true">
 </div>
 
 
