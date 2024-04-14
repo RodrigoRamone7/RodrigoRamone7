@@ -1,35 +1,49 @@
-# Muito Bem-vindo! 🤓
+# Rodrigo Ramone 
 
-<div align="center"><img src="banner.gif" width="96vw"></div>
+#### Estudante de Análise e Desenvolvimento de Sistemas
+<i>Valparaíso de Goiás, GO - Brasil</i>
 
-<p>Com mais de uma década de experiência na área de impressão digital, decidi mudar de carreira e me aventurar na área de tecnologia em busca de novas oportunidades. Embora eu não possua experiência prévia nessa área, estou comprometido em aprender novas tecnologias e me tornar um profissional capacitado e atualizado.<br>
 
-Atualmente, possuo conhecimento intermediário em HTML5/CSS3 e lógica de programação, e estou me aprofundando no estudo da linguagem Python.<br>Estou determinado a me inserir no mercado de trabalho de tecnologia e contribuir para o desenvolvimento de projetos inovadores.</p>
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/rodrigo-ramone-404b62113/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/rodrigo_ramone/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-B80000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramone-404b62113/)
+[![Perfil na DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-B80000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rodrigo_wow7)
 
-<ul>
-    <li>📖 Estudante de Análise e Desenvolvimento de sistemas</li>
-    <li>🧡 Aluno da <a href="https://unifatecie.edu.br/" target="_blank">UniFatecie</a></li>
-    <li>🎮 Gamer</li>
-</ul>
+## Técnologias
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" tittle="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" tittle="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" tittle="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" tittle="javascript" alt="javascript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
----
+
+## Sobre
+<i>
+<br />
+
+> Olá! Eu sou Rodrigo Ramone, um gamer apaixonado por tecnologia desde a infância. Minha paixão por games e computadores sempre me levou a fazer pequenas modificações em arquivos de jogos de computador e realizar manutenções em meu computador pessoal, o que me manteve em constante contato com o mundo da tecnologia.
+
+> Aos 28 anos, tomei a decisão de fazer uma transição de carreira após 8 anos na área de design gráfico e impressão digital. Desde então, tenho estudado constantemente para aprimorar minhas habilidades e me tornar o melhor profissional de tecnologia que posso ser.
+
+> Minha experiência no mercado da indústria gráfica me possibilitou aprender a trabalhar bem em equipe e ter um perfil auto gerenciável. Aliado às minhas habilidades de comunicação, proatividade e rápido aprendizado, isso faz de mim um profissional muito competente no que me proponho a fazer.
+
+> Atualmente, estou em busca de uma oportunidade no mercado de tecnologia para mostrar minhas habilidades e realizar meus objetivos de vida. Neste repositório, você poderá ver meu progresso, links para contato, projetos e portfólio.
+
+</i>
+
+## Principais Projetos
 
 <div align="left">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRamone7&show_icons=true&theme=swift&count_private=true">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRamone7&show_icons=true&theme=swift&count_private=true">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoRamone7&repo=dio-lab-open-source&theme=shadow_red&show_icons=true)](https://github.com/RodrigogRamone7/dio-lab-open-source">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoRamone7&repo=taxametabolica&theme=shadow_red&show_icons=true)](https://github.com/RodrigoRamone7/taxametabolica)">
 </div>
 
+## GitHub Stats
 
+<div align="left">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRamone7&show_icons=true&theme=shadow_red&count_private=true">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRamone7&show_icons=true&theme=shadow_red&count_private=true">
+</div>
