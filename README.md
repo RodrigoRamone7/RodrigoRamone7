@@ -34,13 +34,6 @@
 
 </i>
 
-## Principais Projetos
-
-<div align="left">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoRamone7&repo=dio-lab-open-source&theme=shadow_red&show_icons=true)](https://github.com/RodrigogRamone7/dio-lab-open-source">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoRamone7&repo=taxametabolica&theme=shadow_red&show_icons=true)](https://github.com/RodrigoRamone7/taxametabolica)">
-</div>
-
 ## GitHub Stats
 
 <div align="left">
